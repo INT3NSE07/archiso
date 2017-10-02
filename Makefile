@@ -6,3 +6,5 @@ clean:
 
 build:
 	sudo ./build.sh -v
+
+.PHONY: all clean build
