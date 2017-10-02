@@ -66,5 +66,7 @@ wget
 wireless_tools
 wpa_actiond
 wvdial
+xorg-apps
+xorg-server
 xl2tpd
 zd1211-firmware
