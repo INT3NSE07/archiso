@@ -16,6 +16,7 @@ ethtool
 exfat-utils
 f2fs-tools
 fsarchiver
+git
 gnu-netcat
 gpm
 gptfdisk
