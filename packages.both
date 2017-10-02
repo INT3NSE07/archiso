@@ -33,6 +33,7 @@ linux-atm
 lsscsi
 make
 mc
+mesa
 mtools
 ndisc6
 nfs-utils
