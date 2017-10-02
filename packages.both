@@ -2,6 +2,7 @@ arch-install-scripts
 b43-fwcutter
 base
 base-devel
+bash-completion
 btrfs-progs
 clonezilla
 crda
@@ -44,6 +45,7 @@ ntp
 openconnect
 openssh
 openvpn
+os-prober
 partclone
 parted
 partimage
