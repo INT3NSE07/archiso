@@ -76,6 +76,12 @@ git
 make
 os-prober
 
+# network
+networkmanager
+networkmanager-dispatcher-ntpd
+wireless_tools
+wpa_supplicant
+
 # xorg
 mesa
 xf86-video-amdgpu
