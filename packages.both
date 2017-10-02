@@ -1,8 +1,6 @@
+# archiso
 arch-install-scripts
 b43-fwcutter
-base
-base-devel
-bash-completion
 btrfs-progs
 clonezilla
 crda
@@ -19,7 +17,6 @@ ethtool
 exfat-utils
 f2fs-tools
 fsarchiver
-git
 gnu-netcat
 gpm
 gptfdisk
@@ -32,9 +29,7 @@ irssi
 lftp
 linux-atm
 lsscsi
-make
 mc
-mesa
 mtools
 ndisc6
 nfs-utils
@@ -45,7 +40,6 @@ ntp
 openconnect
 openssh
 openvpn
-os-prober
 partclone
 parted
 partimage
@@ -69,6 +63,21 @@ wget
 wireless_tools
 wpa_actiond
 wvdial
+xl2tpd
+zd1211-firmware
+
+# base
+base
+base-devel
+
+# misc
+bash-completion
+git
+make
+os-prober
+
+# xorg
+mesa
 xf86-video-amdgpu
 xf86-video-ati
 xf86-video-dummy
@@ -85,5 +94,3 @@ xf86-input-vmmouse
 xf86-video-voodoo
 xorg-apps
 xorg-server
-xl2tpd
-zd1211-firmware
