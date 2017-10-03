@@ -8,4 +8,5 @@ do
    ping -c1 www.google.com &> /dev/null && break
 done
 
+cd arch-scripts/
 ./post-install.sh
