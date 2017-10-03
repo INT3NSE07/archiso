@@ -9,7 +9,7 @@ do
 done
 
 # Remount
-mount -o remount,size=2G /run/archiso/cowspace
+mount -o remount,size=4G /run/archiso/cowspace
 
 cd arch-scripts/
 ./post-install.sh

@@ -9,7 +9,7 @@ do
 done
 
 # Increase cowspace
-mount -o remount,size=2G /run/archiso/cowspace
+mount -o remount,size=4G /run/archiso/cowspace
 
 git clone https://bitbucket.org/INT3NSE07/aui/ arch-scripts
 cd arch-scripts
