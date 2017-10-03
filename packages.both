@@ -75,6 +75,7 @@ bash-completion
 git
 make
 os-prober
+reflector
 
 # network
 networkmanager
