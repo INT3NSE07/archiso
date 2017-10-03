@@ -101,3 +101,6 @@ xf86-input-vmmouse
 xf86-video-voodoo
 xorg-apps
 xorg-server
+xorg-xinit
+xorg-twm
+xterm
