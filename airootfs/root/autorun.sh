@@ -9,5 +9,5 @@ do
 done
 
 git clone https://bitbucket.org/INT3NSE07/aui/ arch-scripts
-./arch-scripts/install.sh
-
+cd arch-scripts
+./install.sh
