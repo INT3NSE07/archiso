@@ -76,6 +76,7 @@ git
 make
 os-prober
 reflector
+virtualbox-guest-utils
 
 # network
 networkmanager
