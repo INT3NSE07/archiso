@@ -1,0 +1,6 @@
+[submodule "airootfs/root/arch-scripts"]
+	path = airootfs/root/arch-scripts
+	url = https://bitbucket.org/INT3NSE07/aui
+[submodule "airootfs/root/dotfiles"]
+	path = airootfs/root/dotfiles
+	url = https://bitbucket.org/INT3NSE07/dotfiles
