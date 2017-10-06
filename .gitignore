@@ -1,3 +1,6 @@
 /work
 /out
 /airootfs/root/packages
+/airootfs/root/dotfiles
+/airootfs/root/arch-scripts
+.gitmodule
