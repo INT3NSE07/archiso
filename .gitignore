@@ -4,4 +4,4 @@
 /airootfs/root/dotfiles
 /airootfs/root/arch-scripts
 .gitmodule
-/pacmandb
+/airootfs/root/pacmandb
