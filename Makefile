@@ -6,7 +6,7 @@ clean:
 
 build:
 	sudo ./db.sh
-	mv pacmandb/ ./airootfs/root/pacmandb
+	mv pacmandb/ ./airootfs/root/
 	cp -r /var/cache/pacman/pkg ./airootfs/root/packages
 	sudo ./build.sh -v
 
