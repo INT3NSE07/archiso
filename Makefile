@@ -3,6 +3,8 @@ all: build
 clean:
 	sudo rm -rf out/
 	sudo rm -rf work/
+	sudo rm -rf ./airootfs/root/packages
+	sudo rm -rf ./airootfs/root/pacmandb
 
 build:
 	./db.sh
