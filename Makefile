@@ -9,6 +9,6 @@ clean:
 build:
 	./db.sh
 	cp -r /var/cache/pacman/pkg ./airootfs/root/packages
-	sudo ./build.sh -v
+	time sudo ./build.sh -v
 
 .PHONY: all clean build
