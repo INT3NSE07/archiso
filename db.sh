@@ -5,7 +5,7 @@ MIRROR='https://mirrors.kernel.org/archlinux/'
 DIRPATH=pacmandb
 
 # Do full update
-sudo pacman -Syu
+sudo pacman -Syyu
 
 wget -P ./airootfs/root/${DIRPATH} "${MIRROR}/community/os/${ARCH}/community.db"
 wget -P ./airootfs/root/${DIRPATH} "${MIRROR}/core/os/${ARCH}/core.db"
